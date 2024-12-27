@@ -82,7 +82,7 @@ export const MobileNavbar = ({ navItems }: any) => {
           </div>
           <div className="flex flex-row w-full items-start gap-2.5  px-8 py-4 ">
             <Button>Book a demo</Button>
-            <Button
+            {/* <Button
               variant="simple"
               as={Link}
               href="/register"
@@ -91,7 +91,7 @@ export const MobileNavbar = ({ navItems }: any) => {
               }}
             >
               Register
-            </Button>
+            </Button> */}
           </div>
         </div>
       )}

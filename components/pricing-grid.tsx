@@ -23,9 +23,7 @@ export const PricingGrid = () => {
         "Community Support",
         <span key="access">
           Access to{" "}
-          <CustomLink href="https://ui.aceternity.com">
-            Aceternity UI
-          </CustomLink>
+    
         </span>,
       ],
       onClick: () => {
@@ -51,9 +49,7 @@ export const PricingGrid = () => {
         "99.67% Uptime SLA",
         <span key="access">
           Access to{" "}
-          <CustomLink href="https://ui.aceternity.com/templates">
-            Aceternity UI Templates
-          </CustomLink>
+       
         </span>,
       ],
       onClick: () => {
@@ -72,9 +68,7 @@ export const PricingGrid = () => {
         "Coffee with the CEO",
         <span key="access">
           Access to{" "}
-          <CustomLink href="https://ui.aceternity.com">
-            Aceternity UI
-          </CustomLink>
+        
         </span>,
         "Request tools",
         "Advanced analytics",
